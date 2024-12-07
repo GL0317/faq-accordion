@@ -1,0 +1,12 @@
+.upper-bg {
+    background-color: #301534;
+    height: 320px;
+    margin-bottom: -23%;/* -20rem; -320px*/
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F8EEFF;
+    height: 100vh;
+}

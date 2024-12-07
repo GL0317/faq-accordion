@@ -1,0 +1,20 @@
+/* 
+    The screen size width for a laptop is about 1247px
+    This is about 77.93 rem
+
+    For height it's 585.33 px or 36rem
+*/
+
+.faq-card {
+    width: 35%; /*30rem; 600px */
+    height: 72%; /*26rem 565px */
+    background-color: white;
+    margin-top: 11%; /* 9rem; 150px*/
+    border-radius: 3%;
+}
+
+.faq-container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
