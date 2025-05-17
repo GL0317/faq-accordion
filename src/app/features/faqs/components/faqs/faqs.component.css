@@ -18,3 +18,11 @@
     justify-content: center;
     height: 100vh;
 }
+
+.faq-card-title {
+    width: 139px;
+    height: 66px;
+    display: flex;
+    direction: ltr;
+    gap: 24px;
+}
